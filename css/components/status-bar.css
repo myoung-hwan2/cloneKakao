@@ -1,0 +1,11 @@
+.status-bar {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 3px;
+}
+
+.status-bar__column:first-child span {
+  margin-right: 5px;
+}
